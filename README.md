@@ -1,1 +1,2 @@
-# Design-Projects
+# Term Project
+Project conducted in first year Programing course. Used C programming language to satisfy the given tasks and requirements. The code  runs off of a text file which includes 6 lakes with corresponding temperatures of each day of the year. The code fulfills the required outputs that were asked by the professor. For example, temperatures increasing and decreasing order with their corresponding dates and lakes were required to be outputted. The code successfully filters and pick outs the information being asked and outputs its filtered data.  Several data was required to be accessed from the text file to accommodate for each task. Arrays, strings, and several types of loops and function where required successfully output the results.  
